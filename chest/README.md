@@ -1,3 +1,29 @@
+#End-end-Chest-Cancer-Classification
+
+## Workflows
+
+1.Update config.yaml
+2.update secrets.yaml
+3.update params.yaml
+4.update the entity
+5.update the configuration manager in src config
+6.update the components
+ 7.update the pipeline
+ 8.update the main.py
+ 9.update the dvc.yaml
+
+
+
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/KIMUTAICHELANGA/chest.mlflow \
+MLFLOW_TRACKING_USERNAME=KIMUTAICHELANGA \
+MLFLOW_TRACKING_PASSWORD=01923663866657fc4f0a9e5b8a29ae7bf30f1a1d \
+python script.py
+
+
+
+
 chest
 ==============================
 
